@@ -1,0 +1,12 @@
+D:\Lab02_GiaoVien\Lab02_GiaoVien\bin\Debug\Lab02_GiaoVien.exe.config
+D:\Lab02_GiaoVien\Lab02_GiaoVien\bin\Debug\Lab02_GiaoVien.exe
+D:\Lab02_GiaoVien\Lab02_GiaoVien\bin\Debug\Lab02_GiaoVien.pdb
+D:\Lab02_GiaoVien\Lab02_GiaoVien\obj\Debug\Lab02_GiaoVien.csproj.AssemblyReference.cache
+D:\Lab02_GiaoVien\Lab02_GiaoVien\obj\Debug\Lab02_GiaoVien.frmGiaoVien.resources
+D:\Lab02_GiaoVien\Lab02_GiaoVien\obj\Debug\Lab02_GiaoVien.frmTBGiaoVien.resources
+D:\Lab02_GiaoVien\Lab02_GiaoVien\obj\Debug\Lab02_GiaoVien.frmTimKiem.resources
+D:\Lab02_GiaoVien\Lab02_GiaoVien\obj\Debug\Lab02_GiaoVien.Properties.Resources.resources
+D:\Lab02_GiaoVien\Lab02_GiaoVien\obj\Debug\Lab02_GiaoVien.csproj.GenerateResource.cache
+D:\Lab02_GiaoVien\Lab02_GiaoVien\obj\Debug\Lab02_GiaoVien.csproj.CoreCompileInputs.cache
+D:\Lab02_GiaoVien\Lab02_GiaoVien\obj\Debug\Lab02_GiaoVien.exe
+D:\Lab02_GiaoVien\Lab02_GiaoVien\obj\Debug\Lab02_GiaoVien.pdb

@@ -1,0 +1,7 @@
+﻿1911162 Mai Thanh Lâm	CTK43	Nam	01/04/2001	553555666	0123.456.789	Đà Lạt, Lâm Đồng	Mạng máy tính;Hệ điều hành;Lập trình CSDL
+1812751	Nguyễn Thị	Hà	CTK42	Nữ	10/20/2000	142435522	0123.123.123	Bảo Lộc, Lâm Đồng	Mạng máy tính;Hệ điều hành;Lập trình CSDL;Lập trình trên thiết bị di động
+1711712	Nguyễn Văn	Dũng	CTK41	Nam	11/3/1999	124515152	0341.414.242	Di Linh, Lâm Đồng	Mạng máy tính;Hệ điều hành;Lập trình CSDL;Lập trình mạng;Đồ án cơ sở;Phương pháp NCKH;Lập trình trên thiết bị di động;An toàn và bảo mật hệ thống
+1711713	Trần Thị	Hương	CTK40	Nữ	10/31/1999	134144123	0415.515.525	Bảo Lâm, Lâm Đồng	Mạng máy tính;Hệ điều hành;Lập trình CSDL;Lập trình mạng
+1912314	Nguyễn Thị	Mỹ	CTK43	Nữ	3/20/2001	567433222	0151.515.252	Đà Lạt, Lâm Đồng
+1813766 Nguyễn Xuân Thắng CTK42 Nam 03/09/2000 644333222 0933.444.111 Lâm Hà, Lâm Đồng    Đồ án cơ sở, Lập trình trên thiết bị di động, Lập trình mạng
+1612166 Võ Thị Thu Ngân CTK40 Nữ 03/16/1998   222111786 0987.900.112 Đà Lạt, Lâm Đồng Mạng máy tính, Hệ điều hành, Phương pháp NCKH, An toàn và bảo mật hệ thống

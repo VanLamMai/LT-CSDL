@@ -1,0 +1,10 @@
+D:\Lab02\Lab02\bin\Debug\Lab02.exe.config
+D:\Lab02\Lab02\bin\Debug\Lab02.exe
+D:\Lab02\Lab02\bin\Debug\Lab02.pdb
+D:\Lab02\Lab02\obj\Debug\Lab02.csproj.AssemblyReference.cache
+D:\Lab02\Lab02\obj\Debug\Lab02.frmTrungTam.resources
+D:\Lab02\Lab02\obj\Debug\Lab02.Properties.Resources.resources
+D:\Lab02\Lab02\obj\Debug\Lab02.csproj.GenerateResource.cache
+D:\Lab02\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+D:\Lab02\Lab02\obj\Debug\Lab02.exe
+D:\Lab02\Lab02\obj\Debug\Lab02.pdb
